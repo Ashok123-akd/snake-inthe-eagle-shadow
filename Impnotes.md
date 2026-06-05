@@ -28,6 +28,20 @@ The Input() Function
 why type conversion:
 becasue input returns everything as string, to perform math ops,
 
+is_foody = input("are you foody?(yes/no):").trim().lower() this is the best practice
+
+ARthimetica and Assignment operator:
+Operator : + - * %=returns remainder /=divide one number by another
+Assignent operator:
+= -> assign a value
+== -> checks equal
++=
+-=
+*=
+/=
+===========================================================================================================================
+
+
 
 
 
