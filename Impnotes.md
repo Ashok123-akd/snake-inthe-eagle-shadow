@@ -24,7 +24,9 @@ Float- (float) ex: 36.3,333.666,-2.5
 String- (str) should be inside this:""
 Boolean- (bool)
 
-
+The Input() Function
+why type conversion:
+becasue input returns everything as string, to perform math ops,
 
 
 
