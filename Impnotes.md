@@ -11,8 +11,23 @@ correct variable naming:
 stu_dent
 age
 _stu_dent
+stuDent
 
 Naming is very case senstive, please keep this in mind.
+
+Cases:
+snake case
+
+Data types:
+Integer- (int) ex:20,120,21,
+Float- (float) ex: 36.3,333.666,-2.5
+String- (str) should be inside this:""
+Boolean- (bool)
+
+
+
+
+
 
 
 
