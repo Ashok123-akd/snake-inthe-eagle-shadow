@@ -41,6 +41,47 @@ Assignent operator:
 /=
 ===========================================================================================================================
 
+-------------2083/02/29 (Friday)----------------------
+
+The if Statement
+if condition:
+statement
+
+then if-else statement
+if condition:
+else:
+ex: 
+marks=50
+if marks >=40:
+print("pass")
+else:
+print("fail")
+-
+
+Nested IF= It is typically used to check multiple cases one after another---------------------------------------------------
+age=20
+marks = 80
+if age >= 18:
+  if  marks >= 60:
+  print("Eligible")
+
+elif (Ladder)----------------------------------------------------------------------------------------------------------------
+
+markss =85
+if marks >= 80:
+  print("A grade")
+elif marks >= 60:
+  print("B grade")
+elif marks >= 40:
+  print("C grade")
+else:
+  print("fail")
+
+Logical Operator------------------------------------------------------------------------------------------------------------
+
+
+
+
 
 
 
