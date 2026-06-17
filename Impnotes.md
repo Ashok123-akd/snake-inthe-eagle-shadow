@@ -78,6 +78,17 @@ else:
   print("fail")
 
 Logical Operator------------------------------------------------------------------------------------------------------------
+Nested loop---------------------------------------------------------------------------------------------------------
+1. Grid &n Table 
+outer = rows , inner = columns
+
+2. patterns 
+stars traingle, square, rectangle, diamond, pyramid, hollow triangle, hollow square, hollow rectangle, hollow diamond, hollow pyramid
+
+3. multiplication table
+classic nested loop example
+
+
 
 
 
