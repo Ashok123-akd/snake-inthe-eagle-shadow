@@ -64,9 +64,10 @@ for i in range (1,11):
         print (j,end="\t") #prints table
     print() #for new line after each row of table
 
-
-
-
-
-
+n=5
+for i in range(n):
+    spaces = " " * (n - i - 1)
+    stars = "*" * (2 * i + 1)
+    print(spaces + stars) #prints a pyramid pattern
+print ()
 
