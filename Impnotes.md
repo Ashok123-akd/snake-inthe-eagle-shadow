@@ -167,6 +167,14 @@ def factorial(n):
 print (factorial(5))
 #here each time the number is  being decreased and the factorail is being called to find the factorial.
 
+def fibonacci (n):
+  if n <= 1:
+    return n
+  return fibonacci (n-1) + fibonacci(n-2)
+
+print (fibonacci(6))
+
+
 
 
 
