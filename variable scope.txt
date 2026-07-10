@@ -1,0 +1,19 @@
+ghar janey bela lekhanko what is scope ? Variable scopes
+
+Variable scope determines where a variable can be accessed there are two main types:
+
+Local variables
+
+def greet():
+	message ="Hello"
+	print(message)
+greet()
+# only works inside the fuction
+
+global Variables
+
+name = "Ashok"
+def show():
+	print(name)
+show()
+#accessible everywhere
