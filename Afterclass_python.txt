@@ -1,0 +1,29 @@
+list in python:
+
+student = ["a", "b", "c", "d", "e"]
+
+a list is a collection of multiple values stored in a single variable.
+
+_______characteristics of lists
+
+ordered
+mutable
+can store different data type (string, integer, Boolean)
+
+******************************************************************************
+
+data = ["Ram", 20, True, 3.14]
+empty_list = []
+
+____________List Indexing
+
+There are positive and negative both indexing in lists when accessing the elements
+Indexing starts from 0 in lists
+
+fruits = ["apple", "banana", "orange", "mango"]
+print (fruit[0])
+print (fruit[1])
+print (fruit[2])
+print (fruits[-1])
+
+
